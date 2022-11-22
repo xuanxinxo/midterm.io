@@ -1,0 +1,20 @@
+.information{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding-left: 8%;
+   
+}
+
+
+.rightmini{
+    display: grid;
+    grid-template-columns:10% 36% 54%;
+}
+/* .bigright{
+    display: grid;
+    grid-template-columns: 40% 60% ;
+
+} */
+.information{
+    margin-bottom: 150px;
+}

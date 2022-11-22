@@ -1,0 +1,115 @@
+.pass3{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    background: white;
+    margin-bottom: 20px;
+}
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    
+   
+}
+
+
+.icon1{
+    padding-left:28px; 
+}
+.icon2{
+    padding-left:51px; 
+}
+.icon3{
+    padding-left:75px; 
+}
+.icon4{
+    padding-left: 16px; 
+}
+.icon5{
+    padding-left: 61px; 
+}
+.icon6{
+    padding-left:65px; 
+}
+.icon7{
+    padding-left:85px; 
+}
+.icon8{
+    padding-left: 74px; 
+}
+.icon9{
+    padding-left: 80px; 
+}
+.icon10{
+    padding-left:132px; 
+}
+.item1{
+    
+    color:rgb(0, 0, 0);
+}
+.item1:hover{  
+    color: rgb(255, 63, 5);
+}
+.item2{
+    
+    color:rgb(0, 0, 0);
+}
+.item2:hover{  
+    color: rgb(255, 63, 5);
+}
+.item3{
+    
+    color:rgb(0, 0, 0);
+}
+.item3:hover{  
+    color: rgb(255, 63, 5);
+}
+.item4{
+    
+    color:rgb(0, 0, 0);
+}
+.item4:hover{  
+    color: rgb(255, 63, 5);
+}
+.item5{
+    
+    color:rgb(0, 0, 0);
+}
+.item5:hover{  
+    color: rgb(255, 63, 5);
+}
+.item6{
+    
+    color:rgb(0, 0, 0);
+}
+.item6:hover{  
+    color: rgb(255, 63, 5);
+}
+.item7{
+    
+    color:rgb(0, 0, 0);
+}
+.item7:hover{  
+    color: rgb(255, 63, 5);
+}
+.item8{
+    
+    color:rgb(0, 0, 0);
+}
+.item8:hover{  
+    color: rgb(255, 63, 5);
+}
+.item9{
+    
+    color:rgb(0, 0, 0);
+}
+.item9:hover{  
+    color: rgb(255, 63, 5);
+}
+.item10{
+    
+    color:rgb(0, 0, 0);
+}
+.item10:hover{  
+    color: rgb(255, 63, 5);
+}
